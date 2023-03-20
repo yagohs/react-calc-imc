@@ -4,7 +4,6 @@ Projeto em React + Typescript fazendo uma calculadora de IMC
 
 Com responsividade para celulares e tablets
 
-## Iniciar Projeto
+### Projeto funcional <a href="https://reactcalcimc.netlify.app">Clique aqui</a>
 
- - `npm start`
 
